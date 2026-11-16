@@ -40,6 +40,7 @@ COUNTY_COORDINATES = {
     },
 
     "Illinois": {
+        "Adams (county internal point)": (39.986052, -91.194961),
         "Cook (Chicago)": (41.88, -87.63),
         "DuPage (Wheaton)": (41.86, -88.11),
         "Lake (Waukegan)": (42.36, -87.84),
