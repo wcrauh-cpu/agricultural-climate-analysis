@@ -282,6 +282,25 @@ while keeping management practical.
 **Still needed:** field-level soil information and farmer
 validation. Our prototype does not establish a best rotation.
 
+## Adams County Example: Local Soil Constraints
+
+- Example area: 10.8 acres near 39.986052, -91.194961.
+- Timewell–Ipava map unit, 0–2% slopes: 55.3% of the area;
+  both major components are somewhat poorly drained.
+- Virden map unit, 0–2% slopes: 42.3%;
+  its dominant component is poorly drained with frequent ponding.
+- NASA May–September precipitation: 701.02 mm in 2015
+  versus 321.60 mm in 2023.
+
+**Decision implication:** Compare rotation options under both
+wet and dry conditions. Confirm existing field drainage before
+ranking options; these observations alone do not establish
+a best rotation.
+
+Source: USDA NRCS Web Soil Survey, Adams County, Illinois;
+NASA POWER daily data, 2015–2025.
+
+This is an illustrative local area, not a county-wide soil assessment.
 
 ## Data Notes and Limitations
 
