@@ -279,8 +279,9 @@ while keeping management practical.
 - Explore a small-grain rotation if a suitable planting
   window, equipment, and buyer are available.
 
-**Still needed:** field-level soil information and farmer
-validation. Our prototype does not establish a best rotation.
+**Still needed:** confirmation of actual field drainage,
+farm management, and farmer priorities.
+Our prototype does not establish a best rotation.
 
 ## Adams County Example: Local Soil Constraints
 
