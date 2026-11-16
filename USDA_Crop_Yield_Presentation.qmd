@@ -225,6 +225,63 @@ page = r'''<style>
 
 print(page)
 ```
+## Adams County: Contrasting Growing Seasons
+
+Adams County, Illinois | NASA POWER and USDA NASS
+
+| Year | May–September precipitation | Corn yield | Soybean yield |
+|---|---:|---:|---:|
+| 2015 | 701.02 mm | 158.1 bu/acre | 52.1 bu/acre |
+| 2023 | 321.60 mm | 185.7 bu/acre | 60.7 bu/acre |
+
+2015 and 2023 had the highest and lowest May–September
+precipitation in our 2015–2025 county sample.
+
+Both crops had higher reported yields in the drier year.
+This two-year comparison does not establish causation
+or identify the best rotation.
+
+Precipitation represents a NASA grid estimate sampled at
+a Census county internal point, not a county-wide average.
+
+## Exploring Three Rotation Strategies
+
+Demonstration baseline: corn–soybean.
+Actual farm rotation history is unknown.
+
+| Strategy | Reason to explore | Tradeoffs to assess |
+|---|---|---|
+| Corn → soybean | Baseline for comparison | Soil coverage and current management |
+| Corn → winter rye cover → soybean | Additional cover and residue for soil protection | Establishment cost, termination timing, and spring water use |
+| Corn → soybean → small grain | Diversification and an earlier harvest window for cover crops | Suitable species, equipment, labor, and buyers |
+
+These are research-informed candidates, not outcomes
+predicted by our county yield data.
+
+Sources:
+[Iowa State Extension](https://crops.extension.iastate.edu/post/changing-cover-crop-plans);
+[SARE](https://www.sare.org/publications/cover-crop-book/combining-cover-crops-with-other-field-practices-to-further-improve-soil-health-and-resiliency/).
+
+## Narrowing Options With Farmer Input
+
+**Demonstration priority:** improve soil protection
+while keeping management practical.
+
+- Confirm the current rotation and soil drainage.
+- Check irrigation, equipment, labor, and market access.
+- Use historical NASA precipitation to describe local variability.
+- Compare research-supported benefits and tradeoffs.
+
+**Conditional options**
+
+- Explore winter rye before soybean if establishment and
+  termination are feasible; assess spring soil moisture.
+- Explore a small-grain rotation if a suitable planting
+  window, equipment, and buyer are available.
+
+**Still needed:** field-level soil information and farmer
+validation. Our prototype does not establish a best rotation.
+
 
 ## Data Notes and Limitations
 
